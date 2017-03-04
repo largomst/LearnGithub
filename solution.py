@@ -20,4 +20,4 @@ print(Solution([3, 5, 6, 2, 96, 34, 32], 20))
 
 # 楼主的题目居然都给错了，妈蛋
 
-# typo typz
+# typo type
