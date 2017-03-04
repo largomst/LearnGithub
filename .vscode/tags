@@ -5,7 +5,7 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 Solution	LearnGithub\solution.py	/^def Solution(arr, n):$/;"	kind:function	line:1
-__init__	LearnGithub\widthOfBinTree.py	/^    def __init__(self, left, rigth, data):$/;"	kind:member	line:3
+__init__	LearnGithub\widthOfBinTree.py	/^    def __init__(self, left, rigth, data):$/;"	kind:member	line:2
 node	LearnGithub\widthOfBinTree.py	/^class node:$/;"	kind:class	line:1
 solution.py	LearnGithub\solution.py	1;"	kind:file	line:1
 widthOfBinTree.py	LearnGithub\widthOfBinTree.py	1;"	kind:file	line:1
